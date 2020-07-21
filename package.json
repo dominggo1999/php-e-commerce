@@ -1,0 +1,23 @@
+{
+  "name": "latihan-php",
+  "version": "1.0.0",
+  "description": "PHP e-commerce",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "sass ./sass/style.scss style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dominggo1999/php-e-commerce.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dominggo1999/php-e-commerce/issues"
+  },
+  "homepage": "https://github.com/dominggo1999/php-e-commerce#readme",
+  "dependencies": {
+    "sass": "^1.26.10"
+  }
+}
